@@ -1,16 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
 
 <body style="margin: 0; padding: 0; box-sizing: border-box; font-family: sans-serif; text-decoration: none;">
     <div class="img-container" style="display: flex; justify-content: center; align-items: center; flex-direction: column; width: 100%;">
         <img class="img1" src="https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064"
-            style="border-radius: 10px; width: 500px; height: 500px;">
+            style="border-radius: 10px; >
     </div>
     <h1 style="color: black; text-align: center; font-size: 30px; font-family: sans-serif; margin-top: 20px; margin: 20px;">👋 Hi, I’m @RamnarayanMandal front-end developer</h1>
     <hr>
@@ -44,4 +37,3 @@
     </div>
 </body>
 
-</html>
